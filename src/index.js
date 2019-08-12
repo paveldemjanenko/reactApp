@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import ReactDOM from 'react-dom'; // for manipulating HTML objects
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
